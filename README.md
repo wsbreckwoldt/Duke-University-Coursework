@@ -3,10 +3,10 @@ Some coursework completed in Duke University's Statistics with R Specilization. 
 
 1) Intro to Data and Probability
       - Final project for the course ith R Final Project
-        <INDENT> - Healthcare Data Analysis
- <P><BR>
- a) Intro to Data and Probability.Rmd
+      - Healthcare Data Analysis
+
+      a) Intro to Data and Probability.Rmd
         - Rmarkdown file
- <P><BR>
- b) Intro to Data and Probability.html
+
+      b) Intro to Data and Probability.html
         - HTML Report
