@@ -8,5 +8,5 @@ Some coursework completed in Duke University's Statistics with R Specilization. 
       a) Intro to Data and Probability.Rmd
       - Rmarkdown code
 
-      b) Intro to Data and Probability.html 
+      b) Intro to Data and Probability.pdf 
       - PDF Report
