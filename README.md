@@ -6,7 +6,7 @@ Some coursework completed in Duke University's Statistics with R Specilization. 
       - Healthcare Data Analysis
 
       a) Intro to Data and Probability.Rmd
-      - Rmarkdown file
+      - Rmarkdown code
 
       b) Intro to Data and Probability.html 
-      - HTML Report
+      - PDF Report
